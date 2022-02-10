@@ -5,9 +5,9 @@ of facilitating the cloning of Hyper-V virtual machine.
 
 ### 📷 SCREENSHOTS
 
-<img src="https://i.ibb.co/tKP1YcZ/01.png" width=300 align="center">
+<img src="https://i.ibb.co/tKP1YcZ/01.png" width=500 align="center">
 
-<img src="https://i.ibb.co/HNb4stR/02.png" width=300 align="center">
+<img src="https://i.ibb.co/HNb4stR/02.png" width=500 align="center">
 
 ### ⚙️ FEATURES
 
