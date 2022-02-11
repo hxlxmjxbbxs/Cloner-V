@@ -3,12 +3,6 @@
 This project was created for the purpose 
 of facilitating the cloning of Hyper-V virtual machine.
 
-### 📷 SCREENSHOTS
-
-<img src="https://i.ibb.co/tKP1YcZ/01.png" width=500 align="center">
-
-<img src="https://i.ibb.co/HNb4stR/02.png" width=500 align="center">
-
 ### ⚙️ FEATURES
 
 [+] User Freindly.
@@ -25,3 +19,10 @@ of facilitating the cloning of Hyper-V virtual machine.
 
 To learn more about this project, you can contact me:
 Halim.jabbes@pm.me
+
+
+### 📷 SCREENSHOTS
+
+<img src="https://i.ibb.co/tKP1YcZ/01.png" width=500 align="center">
+
+<img src="https://i.ibb.co/HNb4stR/02.png" width=500 align="center">
